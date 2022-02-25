@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to Friends every where to be distinctly read in their meetings, when assembled together in the fear of the Lord / by a friend of truth, and a lover of righteousness, Katharine Whitton.</title>
+            <author>Whitton, Catharine.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65955</idno>
+            <idno type="STC">Wing W2050</idno>
+            <idno type="STC">ESTC R15697</idno>
+            <idno type="EEBO-CITATION">13031311</idno>
+            <idno type="OCLC">ocm 13031311</idno>
+            <idno type="VID">96744</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96744)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 403:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to Friends every where to be distinctly read in their meetings, when assembled together in the fear of the Lord / by a friend of truth, and a lover of righteousness, Katharine Whitton.</title>
+                  <author>Whitton, Catharine.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Clark ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96744:1" rendition="simple:additions"/>
+            <pb facs="tcp:96744:1" rendition="simple:additions"/>
+            <p>AN EPISTLE TO FRIENDS Every where: To be Diſtinctly Read in their MEETINGS, When Aſſembled together in the Fear of the Lord.</p>
+            <p>
+               <hi>By a Friend of Truth, and a Lover of Righteouſneſs,</hi> Katharine Whitton.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Clark</hi> Bookſeller in <hi>George-yard Lombard-ſtreet.</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:96744:2"/>
+            <pb n="1" facs="tcp:96744:2"/>
+            <head>AN EPISTLE TO FRIENDS Every where.</head>
+            <opener>
+               <salute>Dear Friends,</salute>
+            </opener>
+            <p>IN bowels of tender love to all Friends every where, am I con<g ref="char:EOLhyphen"/>ſtrained and preſſed in Spirit to give forth this Teſtimony, un<g ref="char:EOLhyphen"/>der which I have lain for a long time bowed in Spirit, in a deep ſenſe of the Fatherly care of our God over all his Lambs, and little ones, which he would gladly have all gathered unto him, that he might preſerve them from the evil of the day which is ap<g ref="char:EOLhyphen"/>proaching; for he hath ſhewed a terrible day near to break forths yea, a day that will burn as an Oven, and all the proud, and they that do wickedly, will be as Stubble which cannot endure the Fire; for it will be as a flame, and ſerve as a fire to conſume the counterfeit Mettal, and reprobate Silver, that the pure Gold may appear; yea, that the precious Sons and Daughters of <hi>Sion</hi> may come forth as Gold ſeven times tried, and ſhine in their Beauty and Luſtre. For ſaith the Lord, <hi>I will burn the Chaff with un<g ref="char:EOLhyphen"/>quenchable fire, but the Wheat I will gather into my Garner.</hi>
+            </p>
+            <p>And Friends, this is no Reflection, but comes for diſcharging a duty, from one whom God in meaſure hath placed as on <hi>Sions</hi> Walls; and who ſeeing the Sword come, dare not but give warn<g ref="char:EOLhyphen"/>ing to ſuch as are not upon the watch: For ſaith the Lord, <hi>If they take not warning, if the Sword come and take them away, their, blood ſhall be upon their own heads: But if thou do not warn them, if the Sword come and take any perſon from amongſt them, they are taken away in their Iniquity; <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> their blood will I require at thy <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</hi> And
+<pb n="2" facs="tcp:96744:3"/>Friends, with many Tears and Cries unto the Lord have I been bowed down many a time, that I and every one whom God hath concerned may be clear of the blood of all: And that the Houſe of <hi>Iſrael</hi> may be ſpoken to, leaſt ſin be upon us. For ſaith the Lord, <hi>Cry aloud and ſpare not, lift up thy voice like a Trumpet, ſhew my people their tranſgreſſion, and the houſe of</hi> Jacob <hi>their ſin.</hi> Yea it is a warning from the Almighty, to all and every one of the backſliders in <hi>Iſrael,</hi> and lukewarm ones, and careleſs daughters of <hi>Jeruſalem,</hi> and Women at eaſe in <hi>Sion;</hi> yea an Alarm is ſounded out of the Holy Mountain, that you may hear and be awakned to righteouſ<g ref="char:EOLhyphen"/>neſs, and ſtirred up to holineſs, to meet the Lord in the way of his pure Judgments; for woe will be to thoſe that are at eaſe in that day that is a coming; yea the ſinners in <hi>Sion</hi> muſt mourn, fear will overtake all the unfaithful and diſobedient; yea terror will ſurpriſe the hypocrites, and woe and miſery will be to all thoſe, except they repent, for it is a warning in my heart unto all ſuch from the Lord, that they may all turn unto him by true repentance, whoſe mercy is proffered, and obſerve his Commandments and do them, and keep Covenant with him, and ſee that every one be wiſe in heart, and travel in ſpirit, and make it their concern to bring glory unto the Lord in this his day; for he keeps Covenant with, and extends mercy unto them that love him and keep his Commandments, and he hears the Prayers of his own children, and hath heard them in every Age, and hath not forgot his word ſpoken by his Servants of old; where he ſaith, <hi>If you tranſgreſs I will ſcatter you abroad amongſt the Nations, but if you turn unto me and keep my Commandments, and do them, though there were of you caſt out into the uttermoſt parts of the heaven; yet will I gather you from thence, and will bring you into the place that I have choſen to ſet my Name there.</hi> And ſurely Friends, we are the people for whom the Lord hath done great things, ſince the day that he hath opened our eyes, and let us ſee our miſerable and wretched ſtate, and the great need we had of him to help us out of that condition.</p>
+            <p>Oh! the many tears, with deep ſighs and bitter groans in that day, can never be forgotten; and bleſſed be the Lord who hath heard the cries of the poor, and regarded the groanings of the needy, and hath met us in the way of his Judgments; and hath brought in the Miniſtration of Condemnation, which was glorious in its time, and placed it upon the head of the tranſgreſſor in us, whereby he
+<pb n="3" facs="tcp:96744:3"/>hath judged and condemned the tranſgreſſing and rebellious part, that would not that he ſhould reign, and in his infinite love, and bowels of tender compaſſion, which yearned towards his own preſſed Seed that groaned to be delivered, hath he ranſomed and redeemed his own in meaſure, and led the ſame as he did <hi>Iſrael</hi> of old out of <hi>Egypts</hi> darkneſs, and from under <hi>Pharaoh</hi>'s taskmaſters, to ſacrifice unto him, and praiſe him in the land of the living.</p>
+            <p>And my dear Friends, a remnant through Gods mercy can truly ſay, he hath viſited us as with the day ſpring from on high; and are witneſſes that refreſhment from his preſence is come; and though ſorrow endur'd for the night, yet joy came in the morning, the day being dawn'd, and the morning Sun ariſen; yea the Winter is now through mercy, with many far ſpent, and the ſtorms in mea<g ref="char:EOLhyphen"/>ſure over, and the ſpring time come, and the ſinging of Birds, and the voice of the Turtle is heard in our land. O! the glorious day that is dawn'd upon us, where the morning Stars do ſing together, and all the Sons of God do ſhout for joy. Oh! the wonderful works of our God, and the noble Acts that he hath done; he hath made us to ſee his wonders in the deep, and as <hi>Iſrael</hi> of old, to ſing his praiſes: Oh his tender dealings can never be raced out of our re<g ref="char:EOLhyphen"/>membrance, he hath printed them in our hearts, and his engaging love conſtraineth us to ſpeak well of him, and to make mention of his Name, and ſpeak of his loving kindneſs and tender mercies which endureth for ever!</p>
+            <p>And dear Friends, after all this and much more of the Lords dealing with us, and kindneſs and mercy beſtowed upon us, hath the old adverſary and enemy of mankind beſtirred himſelf, who in every Age hath gone about to inſnare the ſimple, as in <hi>Iſrael</hi> of old, when he prevailed over <hi>Achan</hi> to covet the wedge of Gold and the <hi>Babyloniſh</hi> Garment, for putting his hand to which, the whole Camp of <hi>Iſrael</hi> was troubled, until <hi>Achan</hi> was found, and <hi>Babylon</hi>'s Stuff thrown out, and burnt without the Camp. And other ſome taking ſtrange Wives, mixing with the Heathen, loving their Gold, and learning their ways; for which <hi>Ezra</hi> in his bitter Lamentations, <hi>plucked the Hair from his Head and Beard;</hi> and <hi>Jeremiah</hi> wiſhed, <hi>that his Head were Waters, and his eyes a Fountain of Tears, that he might weep day and night for the ſlain of the Daughters of his people.</hi> And dear Friends, in our Age many hath been the temptations and allurements this enemy hath aſſaulted the children of the Lord with,
+<pb n="4" facs="tcp:96744:4"/>ſome times transforming himſelf as into <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Angel of light, to de<g ref="char:EOLhyphen"/>ceive if it were poſſible the very Elect: But bleſſed be the Lord who hath preſerved a remnant out of his ſnares alive unto himſelf, yet hath he prevailed upon ſome, drawing them into divers diſorders, whereby the worthy Name of the Lord hath been blaſphemed, his precious Truth evil ſpoken of, and the ſimple inſnared, to the ſorrow of a remnant, and ſadding the heares of the righteous, which hath cauſed many tears and ſecret cries unto the Lord, that he would ap<g ref="char:EOLhyphen"/>pear in his wiſdom more and more, for his own glorious Names ſake, and Truths ſake, to preſerve the ſimple, and fruſtrate the enemy of his end: And bleſſed be the Lord who ſtill hears the cry of his own Seed, and being zealous of his own glory, hath appeared in his Faith<g ref="char:EOLhyphen"/>ful Meſſengers, to gather and encourage men and womens Meetings, whereby he is ſtopping the enemy in his progreſs, by placing judg<g ref="char:EOLhyphen"/>ment on his head, and condemnation to that part over which he rules; and in this work the Lord hath engaged Sons and Daughters, putting his ſpiritual Sword into their hands, for the beating down ſtrong holds of ſin, in which the mighty Prince of the power of darkneſs hath his place: neither dare they do this work negligent<g ref="char:EOLhyphen"/>ly, or over-look, or connive at any of his practices, or proceedings, in whomſoever they appear, but in Truth, and Righteouſneſs, judge and condemn the evil, under whatever pretence the ſame do appear, at which the evil once is troubled, and likes not this way, neither would be thus dealt with, but under pretence of Truth pleads for more liberty and freedom of Spirit; and ſo transforming himſelf to betray the ſimple, and defile the Temple of God, and ſit as God, yet he is the Serpent, and he can not ſave his head, for the Seed of the woman is brought forth, and a bringing forth, and the enmity is placed between the two Seedt, and her Seed muſt break his head; and he is now a receiving Blows, at which he rageth, and raileth againſt the work of the Lord, and the inſtruments he imployeth: But the determination of the Lord is to diſthrone him, and bring him down, and take his own poſſeſſion, and reign in his own Temple, whoſe right it is to rule, and happy will all ſuch be, who in omiſſion do meet him in the way of his Righteous Judgments, for they are always mixed with mercy, and they ſhall find it who ſubmit unto him, but ſuch as will not that he ſhould reign, he will bring them to naught.</p>
+            <p>The <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> dear Friends, let us keep our Womens Meetings in Gods
+<pb n="5" facs="tcp:96744:4"/>pure, fear, and wait upon him to feel his powes and heavenly wiſ<g ref="char:EOLhyphen"/>dom, and that will allow of nothing whereby the worthy Name of the Lord is blaſphemed, his precious Truth evil ſpoken of, or good Spirit grieved either in the particular or general, but by his power and wiſdom it will be judged and diſowned, without reſpect of per<g ref="char:EOLhyphen"/>ſons, whether by words or actions, Meats, Drink or Apparel, let the pretence be what it will, neither can this ſowe pillows under the arm-holes of any, nor ſpeak peace to the wicked; nor heal the hurt of the Lords people deceitfully; but ſearch the wound, and pour in the pure <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyl, to the comfort of the wounded: That, that may be raiſed which delights to do its Fathers will, and honour him in all things <hi>(i. e.)</hi> both in life, practice and dectrins, that ſo in this holy life we may ſhine as Lights in the World, in Gods wiſdom, having our Lamps trimmed, our Lights burning, and in our Conſers the ſweet Incenſe, which gives a good Savour both to God and man, having the Savoury Salt in us with which every word and action may be ſeaſoned, that others ſeeing our holy lives, and good converſations may glorifie our heavenly Father.</p>
+            <p>And dear Friends, let no difference be, but in the unity of one Spirit let's be a people of one heart and mind, ſerving the Lord with one conſent, ſeeking his glory unanimouſly, working the work to which he hath called us, which work is to ſtop the enemies work (as I ſaid before) in what pretence ſoever he come; for Friends, he will ask no more then to have footing amongſt us, under pretence of Truth, purting a fair vizardon every action, calling pride decen<g ref="char:EOLhyphen"/>cy, covetouſneſs carefulneſs, Nicety and Curioſity in the forms of Meat, Drink, or other things, a point of good Houſe wiſery, for every thing he will have a covering like Truth, that he may keep his Intereſt in the hearts of men and women, which is the principal part: But the Heir is brought forth which muſt take his Inheri<g ref="char:EOLhyphen"/>tance, and the true Light now ſhineth that diſcovers him in every action, not one corner he can ſhelter in where he is not ſeen, his coverings are all too narrow, the vail which he hath ſpread over him and his actions, muſt by the power of the Lord which is riſen, and ariſing in the boſoms of a remnant, be rent in twain from the top to the bottom; ſo my dear Friends, whom God hath engaged, every one diſcharge your duty, be zealous for the Lord, and valiant for his Truth, and as the valiants of <hi>Iſrael,</hi> every one have on your Spiritual armour and weapons in readineſs, for woe will be to thoſe
+<pb n="6" facs="tcp:96744:5"/>who do the work of the Lord negligently, or with a careleſs mind: But they will with <hi>J<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l</hi> be bleſſed, who put their hand to the work, and their right hand to the Workmans hammer, to the wounding of <hi>Iſraels</hi> enemy, for he muſt bow, yea he muſt fall, and Songs of Triumph over him, as in <hi>Deborahs</hi> days there muſt be: Therefore Friends, let us to the work, every one to the imployment to which we are or have been called; and while the Light ſhineth that lets us ſee every Corner, let all that's unclean be rid, and ſwept out; yea let us make clean work, for to be truly arrayed in the White-Linen which is the righteouſneſs of Saints, is very decent, and to have this houſe (to wit, our hearts and inward parts) clean ſwept, and all its furniture of righteouſneſs ſet in good and comely order, in care<g ref="char:EOLhyphen"/>fulneſs, is very commendable and conſiſtent with good Houſe wifery too: And I do not doubt but thoſe who are careful in the matters before mentioned, will not as to outward things come ſhort (accord<g ref="char:EOLhyphen"/>ing to their abilities) in any thing that is needful, neceſſary, comely, decent and of good report; as it is not fit they ſhould exceed, ſo I hope they will not come behind, what may be of good example, and tend to edification, and to thoſe things whereby Truth is honoured. So Friends let us be Faithful to the Lord, and careful over his houſe<g ref="char:EOLhyphen"/>hold and family, not as the bad Servant, who ſmiteth his Fellow, but as the good Servant, giving them Meat in due ſeaſon, Feeding the Hungry, Cloathing the Naked, Viſiting the Sick, binding up the broken-hearted, healing the wounded, and let it be with <hi>Gileads</hi> Balm, and bleſſed ſhall all ſuch be when their Lord cometh whom he ſhall find ſo doing; and greatly hath the preſence of God to his praiſe appeared to the owning, carrying on and bleſſing of this his own work, and large hath been his love and Fatherly care over all Lambs and little ones, and very weighty is the work and great the concern, to ſtrengthen the weak, and confirm the feeble, and gather all thoſe that's ſcattered by the wiles of the enemy to him, that is and always was the ancient Rock and refuge of the righteous in every Age, that ſo, if poſſible, not one may be left behind, but all be gathered: And it is the travel of my Soul, and deſire of my Spirit, that none of thoſe may ſlight the day of their Viſitation, whom the Lord hath in any meaſure touched, or that have had their faces turn<g ref="char:EOLhyphen"/>ed <hi>Sion</hi>-wards, but that they may be exhorted and admoniſhed, and dearly intreated to haſt unto the Lord, who long hath hovered over us, as ſometime he did over <hi>Jeruſalem</hi> of old, and fair would
+<pb n="7" facs="tcp:96744:5"/>have all gathered under the ſhelter of his wings, that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made men<g ref="char:EOLhyphen"/>tion of his Name; and many hath been his Warnings, and Invitations by his Servants and Meſſengers, and ſtill he ſtands as with open arms, ready to receive all thoſe that come unto him in <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>llity of mind, and brokenneſs of heart. So dear Friends, let none <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ick in the World, its evil ways, vain Cuſtoms, or fooliſh faſhions, be not partakers with them of their pleaſures, leſt ſuch partake of their plagues; but be ye ſepara<g ref="char:EOLhyphen"/>ted, <hi>touch no unclean thing, and I will receive you, ſaith the Lord:</hi> ſo in this ſelf-denying life, and by the ancient power by which we were gathered in the beginning, let us haſt with ſpeed to our God, who is our refuge and ſure hiding-place; for the ſtorm approacheth, and certainly will overtake the negligent &amp; careleſs, who are gone from the Shepherd. So dear Friends, let no pains be ſpared, or means neglected, whereby the work ſo needful may be haſtned, for it is Gods work, and not mans, though as I ſaid before, it laid on the ancient and honourable in <hi>Iſrael,</hi> to put the work forward; for the Elders that rule well, are worthy of dou<g ref="char:EOLhyphen"/>ble honour, as the Apoſtle ſaid, and alſo eſteem them for their works ſake. And as <hi>Deborah</hi> ſaid, <hi>my heart is towards the Governours of Iſrael;</hi> and I can truly ſay, many a time when I have viewed in my mind their ſufferings, tryals and tribulations they went through in the beginning, my heart hath been broken, and I have ſecretly ſaid, They have broken us a way through the Thickets, and trodden us a path through the Deſarts; they have born the burden in the heat of the day, and what can I now do, or ſuffer for the Truth? am not I as one born out of due time?</p>
+            <p>But living praiſes to the Lord, who in every Age is ready to reward the faithful, in what hour ſoever they labour in his Vineyard; and there is not one Member, though never ſo little, if in the body, nor Inſtru<g ref="char:EOLhyphen"/>ment, though never ſo weak, if prepared of the Lord, but all needful and uſeful in their places, to the dreſſing of the Vineyard of the Lord, and for the plucking up of thoſe hurtful weeds that cumber the tender Plants. And dear Friends, let this be done in Gods pure fear, and hea<g ref="char:EOLhyphen"/>venly Wiſdom, with a tender care over every weak Plant, that it may be nouriſhed within good ground, that it may bring forth Fruit to Gods Glory; <hi>For thereby ſaith he am I glorified, that ye bring forth much Fruit.</hi> Then is the labour of love which the faithful beſtows anſwered, when the Plants proſper, and the Lord is glorified; ſo in this labour as co-workers and fellow-helpers, Male and Female, for which we were raiſed up by the Lords Power, let us put our hands to the work, and none look at their own weakneſs, for the Lord hath been pleaded with
+<pb n="8" facs="tcp:96744:6"/>touching the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> work and the weakneſs of the Inſtru<g ref="char:EOLhyphen"/>ment he ch<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Anſwer hath been in the boſom of ſuch <hi>(i.e.)</hi> I have choſen the weak things to overturn the ſtrong and Mighty, and the fooliſh things <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſound the Wiſdom of the Wiſe, and things that are not, <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought things that are and it is the travel of my Spirit, That none <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their hand to the Plow may draw back or be diſmayed, whatſoever the oppoſition be, for living praiſes to our God, the time is come wherein he is pouring of his Spirit upon his Sons, and upon his Daughters, Servants and Hand-maids, and enduing them with his Heavenly Wiſdom, and fitting and ſtrengthening them to perform every duty and ſervice he hath called them unto, how feeble ſoever we have appeared to be. As he did the ancient <hi>Jews,</hi> when they had the walls of <hi>Jeruſalem</hi> to build, though it was then ſaid of them, what will theſe feeble <hi>Jews</hi> do? but mark what Courage they received from the Lord to carry on the work with one hand, and with the other hold their weapon and praiſes to the Lord, we have no cauſe to complain, for his ancient power hath been with us thus far, and his Heavenly preſence hath accompanied us hitherto, whereby we are encouraged to the work for which we are appointed, even to labour in the Lord, for the repairing of the waſte places of <hi>Jeruſalem,</hi> and making up of the breaches in <hi>Sion,</hi> whom the Lord is making and about to make the praiſe of the whole Earth; for her Beauty muſt ſhine forth that many ſeeing It may have their faces thither wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and beholding <hi>Jeruſalems</hi> glory, may deſire to dwell within her walls.</p>
+            <p>And dear Friends, let us diligently view <hi>Jeruſalem,</hi> that we may count her Towers, and mark well her Bulwarks, that we may tell it to gene<g ref="char:EOLhyphen"/>rational <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and that thoſe who ſucceed our day, may have thoſe Teſtimonies lift upon Record, what God hath done for us, and been unto us <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Faithfulneſs may be declared from age to age, and from one generation to another. O praiſes, praiſes to our God for evermore, for he hath had regard to the low eſtate of his Hand-maids, and hath remembred our many tears when we mourned apart for him as ſilly Doves <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and hath viſited with his love &amp; owned with his preſence, which is better then life is ſelf; yea he is the beloved of our Souls, h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Comery, there is no Spot in him, he is Amiable in our eye, he is thee chiefeſt often Thouſand, there is none like unto him, nor worthy to be compared with him; he is our beloved, and he is our Friend and hath given us cauſe to ſay, our lot is fallen in a good Land, and that we have a large poſſeſſion; yea let this ſong he ſung as in the
+<pb n="9" facs="tcp:96744:6"/>land of <hi>Judah,</hi> we have a ſtrong City, Salvation hath God appointed for Walls and for Bulwarks, and will keep in perfect peace all thoſe whoſe minds are ſtaid upon him, but he will bring down thoſe that dwell on high, yea the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y he will lay low, but the way of the Juſt is upright<g ref="char:EOLhyphen"/>neſs, the moſt upright doth weigh his paths, yea in the way of his Judg<g ref="char:EOLhyphen"/>ments have we waited for him, and the deſire of our Souls hath been to his Name, and to the remembrance of it; yea with our Souls have we deſired him in the Night ſeaſon, and with our Spirits within us have we fought him early; for when his Judgments are in the Earth, then its Inhabitants learn Righteouſneſs. O living Praiſes unto him who hath appeared in our age, and brought forth Judgment into victory, and ranſomed, redeemed and raiſed by his ancient power, his own ſuffer<g ref="char:EOLhyphen"/>ing Seed, which in every age hath found acceptance with him from the beginning, as was manifeſt in righteous <hi>Abel, Enoch,</hi> (and alſo <hi>Noah</hi> whom he preſerved;) though he deſtroyed the old World: and though <hi>Sodom</hi> was deſtroyed, yet <hi>Lot</hi> eſcaped, by flying out of it and getting into <hi>Zoar.</hi> And dear Friends, it is upon me yet once more to entreat, if any there be in any meaſure guilty of any of thoſe Evils for which the Lord is angry with this Nation, the land of our Nativity, that ſuch by true Repentance, while mercy is proffered, would return and get out of the ſame; for the Angel of the Lord hath warned, therefore linger not, but I ſay get out of every thing where with the Lord is diſpleaſed, for he is a holy God, and of purer eyes then to behold Iniquity, and without holi<g ref="char:EOLhyphen"/>neſs none can come unto him: Therefore ſaith he, <hi>be ye holy as I am holy,</hi> So dear Friends, in this holy life let us fly unto the Name of the Lord, for it is our ſtrong Tower, in which he will preſerve the Righteous, until his indignation be over and paſt, for he is angry with this Nation, becauſe of the many &amp; groſs evils which hath abounded in it, with the oppreſſi<g ref="char:EOLhyphen"/>ons of his people, becauſe of all which he is grieved, and is preparing as a man of war to cut down the workers of iniquity, and ſweep the Nation of Evil doers, and will finiſh Sin, and put an end to tranſgreſſion, and bring in everlaſting Righteouſneſs, that the knowledge of his glory may cover the Earth, as the waters cover the Seas; for he hath taken notice of his ſuffering Seed, and hath remembred the afflictions of <hi>Joſeph,</hi> and will ſet his Seed and heritage free, and bring the priſoners out of the priſon-houſe; for <hi>Joſeph</hi> came forth to anſwer the end for which he was appointed, (though he was afflicted from a Child) to be a Saviour and a preſerver of much People; for the promiſes of the Lord to our father, faithful <hi>Abraham,</hi> ſtands ſure for ever, who ſaid, <hi>in bleſſing I will bleſs thee,
+<pb n="10" facs="tcp:96744:7"/>and i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> I will multiply thy Seed as the Stars of Heaven, and as the San<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re which cannot be numbered,</hi> in whoſe Seed alſo all the Nations of the Earth ſhall be bleſſed. So dear Friends, in the bleſ<g ref="char:EOLhyphen"/>ſed Seed let <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ly wait upon the Lord, to feel its breathings, and travels, and wreſtlings of the Almighty, for <hi>Sions</hi> ſake; yea let thoſe Spi<g ref="char:EOLhyphen"/>ritual Prayers aſcend up unto him, which in every age is his delight, and avails much with him for <hi>Sions</hi> proſperity, and for <hi>Jeruſalem</hi>'s welfare; and not only ſo, but for all that have their faces <hi>Sion</hi> wards, and de<g ref="char:EOLhyphen"/>ſire to inhabit within <hi>Jeruſalem</hi>'s walls, for good is the Lord, <hi>ſlow to anger and of great mercy,</hi> willing to ſhew kindneſs to all <hi>Sions</hi> wel-wiſhers. And ſo dear Friends, let us give our Attendance in all heavenly obedience upon him, in his own pure life begotten and brought forth by him, that ſo by his own off-ſpring he may be honoured, and in that may ſway the Righteous Scepter, and lift up his Standard, and diſplay his Enſign, that the Nations of thoſe that muſt be ſaved by him, may flock unto him, that ſo many there may be from the <hi>Eaſt</hi> and <hi>Weſt, North</hi> and <hi>South,</hi> that may come to ſit down with <hi>Abraham, Iſaac</hi> and <hi>Jacob,</hi> to praiſe him in the beauty of holineſs, unto whom all praiſes, honour and renown belongeth, and to him it is given and returned, ſaith my Soul.</p>
+            <p>Dear Friends, this hath long laid upon me from the Lord, but I would have hid my ſelf, and have been as one unconcerned, but his hand was heavy upon me, and gave me no reſt, until with many tears I cryed un<g ref="char:EOLhyphen"/>to him that he would help me, and enable me to do my duty, and diſ<g ref="char:EOLhyphen"/>charge my Conſcience, and deliver his Meſſage; and then I gave up, and in obedience found peace: and according to the ability he hath given me, and as he opened in my heart, have I delivered it, deſiring it may be re<g ref="char:EOLhyphen"/>ceived in the ſame bowels of love in which it is given forth, and its end anſwered, which is only and alone that the Lords People may be preſerved, and he over all glorified who is God, worthy for ever and for ever, and for evermore.</p>
+            <closer>
+               <signed>
+                  <hi>From a Traveller in Spirit for</hi> Sions <hi>proſperity, and your true and lo<g ref="char:EOLhyphen"/>ving Friend, in the univerſal and unchangeable love of our God, in which I bid you all farewell.</hi> CATHARINE WHITTON.</signed>
+            </closer>
+            <pb facs="tcp:96744:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
